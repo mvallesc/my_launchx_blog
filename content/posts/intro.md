@@ -7,8 +7,9 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 En este post me gustaria mencionar los valores que considero son necesarios en todo profecional del desarrollo de software.
 
+- Creatividad
+- Paciencia
+- Honestidad
+- Responsabilidad
 - Respeto
 - Empatia
-- Responsabilidad
-- Honestidad
-- Paciencia
