@@ -7,5 +7,11 @@ Hola ✌️  soy el explorer **Miguel** y este es mi blog personal donde compart
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
-🚀
 
+Mis expectativas para este proyecto son:
+
+- Aprender a utilizar Git en mis proyectos
+- Dar mis primeros pasos en el desarrollo de BackEnd utilizando NodeJS
+
+
+🚀
